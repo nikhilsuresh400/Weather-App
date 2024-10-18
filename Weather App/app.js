@@ -42,8 +42,6 @@ async function checkWeather(city) {
         document.querySelector(".error").style.display = "none";
     }
 
-    
-
 }
 
 searchBtn.addEventListener("click", ()=> {
